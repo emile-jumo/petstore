@@ -1,0 +1,7 @@
+title: Pets
+type: object
+properties:
+  Pets:
+    type: array
+    items:
+      $ref: ./pet.v1.yaml
